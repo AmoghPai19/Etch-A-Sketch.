@@ -1,0 +1,39 @@
+/* Page layout */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;      /* center horizontally */
+  background-color: bisque;
+}
+
+/* Heading (optional if you have one) */
+h1 {
+  margin: 20px 0 10px;
+}
+#reset-button {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 720px;
+    width: 720px;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: white;
+    margin-bottom: 15px;
+}
+.square{
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+.color-btns {
+    display: flex;
+    gap: 7px;
+    margin-bottom: 10px;
+}
