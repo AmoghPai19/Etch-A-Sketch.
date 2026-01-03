@@ -8,8 +8,6 @@ The primary goal of this project was **not visual polish or production readiness
 
 ## 📸 Demo / Preview
 
-Upload screenshots or GIFs of the project here to showcase how it works.
-
 
 ![Etch-a-Sketch Demo](./images/demo.png)
 
