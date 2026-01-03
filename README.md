@@ -11,6 +11,8 @@ The primary goal of this project was **not visual polish or production readiness
 
 ![Etch-a-Sketch Demo](./images/demo.png)
 
+![Etch-a-Sketch Demo Vid](./images/demovid.gif)
+
 ## 🧠 Project Purpose
 
 This project was created as a **fundamentals practice exercise** to better understand how JavaScript interacts with the DOM and how user interactions can dynamically modify a webpage.
