@@ -11,7 +11,6 @@ The primary goal of this project was **not visual polish or production readiness
 
 ![Etch-a-Sketch Demo](./images/demo.png)
 
-![Etch-a-Sketch Demo Vid](./images/demovid.gif)
 
 ## 🧠 Project Purpose
 
